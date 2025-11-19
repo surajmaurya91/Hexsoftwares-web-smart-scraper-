@@ -1,0 +1,29 @@
+# Web Scraping Libraries
+requests==2.31
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Data Processing
+pandas==2.0.3
+openpyxl==3.1.2
+
+# Web Automation (Optional)
+selenium==4.15.0
+
+# HTTP Client (Alternative to requests)
+urllib3==2.0.7
+
+# Date/Time handling
+python-dateutil==2.8.2
+
+# Progress bars (Optional)
+tqdm==4.66.1
+
+# Configuration handling
+pyyaml==6.0.1
+
+# For API scraping (Optional)
+aiohttp==3.8.5
+
+# For data validation (Optional)
+pydantic==2.4.2
